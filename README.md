@@ -1,4 +1,5 @@
-# Final-project-kelompok-05-Aditya
+# Final-project-kelompok-05-Aditya Bariq Ikhsan
+
 Tugas ahir Kampus merdeka, Program Accelerated Machine Learning di Zenius;
 
 Nama Kelompok 5 Data telecom-Churn : <br>
