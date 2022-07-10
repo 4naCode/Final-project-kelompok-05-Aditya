@@ -2,4 +2,5 @@
 Tugas ahir Kampus merdeka, Program Accelerated Machine Learning di Zenius;
 
 Nama Kelompok 5 : Noeril Agian Septa Dinata
+
                 : Stefanus Adyan Mardhikaputra
